@@ -1,0 +1,3 @@
+twitch api get channels -q broadcaster_id=578391436 -q first=1
+twitch api get search channels -q query=the_egg_and_i -q first=1
+twitch token -u -s "channel:read:subscriptions"
